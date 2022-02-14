@@ -1,1 +1,1 @@
-groundtruth folder
+groundtruth values
