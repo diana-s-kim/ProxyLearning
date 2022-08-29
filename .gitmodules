@@ -1,0 +1,3 @@
+[submodule "code/tf-slim-proxylearning"]
+	path = code/tf-slim-proxylearning
+	url = https://github.com/diana-s-kim/tf-slim-proxylearning
