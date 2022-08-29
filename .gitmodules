@@ -1,0 +1,3 @@
+[submodule "code/tf-slim"]
+	path = code/tf-slim
+	url = https://github.com/diana-s-kim/tf-slim
